@@ -5,6 +5,12 @@
 ## 👨‍💻 Sobre Mim &nbsp;&nbsp; 
 
 Olá! Eu tenho **21 anos** e atualmente trabalho na área de **Tecnologia**. Me interesso no aprendizado de novas linguagens e ferramentas, e atualmente estou focado em aprimorar minhas habilidades na **análise e manipulação de dados**. Meu objetivo é me especializar e aperfeiçoar o uso de tecnologias relacionadas a esse campo, como **bancos de dados**, **ferramentas de visualização de dados** e **linguagens de programação** voltadas para a análise de dados.
+
+### Atualmente:
+- 🐍 Desenvolvo projetos pessoais para praticar manipulação de dados com **Python** e **SQL**.
+- 📊 Construo planilhas que buscam otimizar o tempo de trabalho utilizando ferramentas como **Excel** e o **App Script** em planilhas **Google Sheets**.
+
+
 <div align="center">
   
 ![GIF de Programação](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
@@ -22,7 +28,7 @@ Olá! Eu tenho **21 anos** e atualmente trabalho na área de **Tecnologia**. Me 
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://support.microsoft.com/excel)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 </div>
 
@@ -33,19 +39,9 @@ Olá! Eu tenho **21 anos** e atualmente trabalho na área de **Tecnologia**. Me 
 <div align="center">
   
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
-
-</div>
-
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Dann-09&show_icons=true&theme=radical)
 
 </div>
 
