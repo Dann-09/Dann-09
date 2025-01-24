@@ -4,19 +4,13 @@
 
 ## 👨‍💻 Sobre Mim &nbsp;&nbsp; 
 
-Olá! Eu tenho **21 anos** e atualmente trabalho na área de **Tecnologia**. Me interesso no aprendizado de novas linguagens e ferramentas, e atualmente estou focado em aprimorar minhas habilidades na **análise e manipulação de dados**. Meu objetivo é me especializar e aperfeiçoar o uso de tecnologias relacionadas a esse campo, como **bancos de dados**, **ferramentas de visualização de dados** e **linguagens de programação** voltadas para a análise de dados.
+Olá! Eu tenho **22 anos** e atualmente trabalho na área de **Tecnologia**. Me interesso no aprendizado de novas linguagens e ferramentas, e atualmente estou focado em aprimorar minhas habilidades no **Backend**. Meu objetivo é me especializar e aperfeiçoar o uso de tecnologias relacionadas a esse campo.
 
 ### Atualmente:
+- 🧑🏻‍🎓 Estou cursando Desenvolvimento FullStack.
+- 🖌️ Utilizo ferramentas de Front-End para praticar conhecimentos de criação de sites.
 - 🐍 Desenvolvo projetos pessoais para praticar manipulação de dados com **Python** e **SQL**.
-- 📊 Construo planilhas que buscam otimizar o tempo de trabalho utilizando ferramentas como **Excel** e o **App Script** em planilhas **Google Sheets**.
-
-
-<div align="center">
-  
-![GIF de Programação](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-</div>
-
+- 📊 Construo planilhas que buscam otimizar o tempo de trabalho utilizando ferramentas como **Excel**.
 ---
 
 ## 🔧 Tecnologias e Ferramentas
@@ -40,7 +34,7 @@ Olá! Eu tenho **21 anos** e atualmente trabalho na área de **Tecnologia**. Me 
   
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+
 
 
 </div>
